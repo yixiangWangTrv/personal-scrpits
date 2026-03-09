@@ -1,0 +1,43 @@
+{
+    "caseId": "5jb7zu70480r1ki17fz3hkfwm",
+    "name": "قاسم قاسم عبدالله هشام",
+    "alternateNames": [],
+    "providerTypes": [
+        "WATCHLIST"
+    ],
+    "customFields": [],
+    "secondaryFields": [],
+    "groupId": "5jb7khq9qaa41kgm6hpgmza7c",
+    "entityType": "INDIVIDUAL",
+    "caseSystemId": "5jb7zu70480r1ki17fz3hkfwn",
+    "caseScreeningState": {
+        "WATCHLIST": "INITIAL"
+    },
+    "lifecycleState": "UNARCHIVED",
+    "creator": {
+        "userId": "5jb7khq9qaa41kgm6jcnkcxjh",
+        "firstName": "Adil",
+        "lastName": "Igman",
+        "fullName": "Adil Igman",
+        "email": "adil.ramadhan@traveloka.com",
+        "status": "ACTIVE"
+    },
+    "modifier": {
+        "userId": "5jb7khq9qaa41kgm6jcnkcxjh",
+        "firstName": "Adil",
+        "lastName": "Igman",
+        "fullName": "Adil Igman",
+        "email": "adil.ramadhan@traveloka.com",
+        "status": "ACTIVE"
+    },
+    "assignee": null,
+    "creationDate": "2026-03-09T12:24:49.373Z",
+    "modificationDate": "2026-03-09T12:24:50.637Z",
+    "nameTransposition": false,
+    "outstandingActions": false,
+    "lastScreenedDatesByProviderType": {
+        "WATCHLIST": "2026-03-09T12:24:50.637Z"
+    },
+    "providerTypeDetails": null,
+    "results": []
+}

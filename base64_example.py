@@ -4,14 +4,12 @@ import hmac, hashlib, base64
 content="{\n \"caseId\": \"my customer ID\",\r\n \"name\": \"John Doe\",\r\n \"providerTypes\": [\"WATCHLIST\"]\r\n}"
 
 print(len(content))
-data_to_sign = """(request-target): post /screening/V3/cases
+data_to_sign = """(request-target): post /screening/v3/groups
 host: api.risk.lseg.com
-date: Tue, 07 Jun 2016 20:51:35 GMT
-content-type: application/json
-content-length: 88
-""" + content
+date: Mon, 09 Mar 2026 02:59:04 GMT
+""" 
 
-api_secret = "1234"
+api_secret = ""
 # api_token = base64.b64decode(api_secret)
 api_token = api_secret.encode()
 encoded_data = data_to_sign.encode()

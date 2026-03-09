@@ -20,9 +20,9 @@ null = None
 false = None
 
 
-api_key = "d00741e7-e80a-4438-8016-c6c0f0350e7b"  # Enter your API key
-api_secret = "Cb+gVC8t9NfqANKArt0kwqTBM1X4HTtX9q4RQqc40r6doonK665EjZ5RdW62OORH/nhkW3KwZWNBSHrLb53yzA=="  # Enter your API secret
-group_id = "5jb7khq9qaa41kgm6hpgmza7c"  # Enter your group Id
+api_key = ""  # Enter your API key
+api_secret = ""  # Enter your API secret
+group_id = ""  # Enter your group Id
 api_token = api_secret.encode()
 path = "https://api.risk.lseg.com/screening/v3/cases?screen=SYNC"
 gateway_url = "/screening/v3/"
